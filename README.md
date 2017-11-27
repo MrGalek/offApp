@@ -1,1 +1,5 @@
 # offApp
+
+## Author
+
+Damian Gałczyński
